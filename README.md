@@ -6,7 +6,7 @@
 ## 分組名單
 | | | |
 --|--|--
-[張雯婷](https://github.com/1221cc/123456) | [蔡沛姍](https://github.com/Pei4/Exercise) | [李映儒](https://github.com/Lulu-Lee/106-Summer-Class)| 
+[張雯婷](https://github.com/1221cc/123456) | [蔡沛姍](https://github.com/Pei4/Exercise) | :thumbsup:[李映儒](https://github.com/Lulu-Lee/106-Summer-Class)| 
 :thumbsup:[江雨柔](https://github.com/stephanie0324/01) | [賴昱心](https://github.com/SafiaLai/Test.git) | :thumbsup:[楊舒涵](https://github.com/yshuhan/project) | 
 [林奕均](https://github.com/yichunchloe/CSX_RProject_Spring_2018) | [林筠倩](https://github.com/linicelock/CS-X-summer-2018) | [陳麒業](https://github.com/Gsus4/CSX_Summer_2018) | 
 :thumbsup:[何配瑜](https://github.com/pd1921/CSX_RProject_2018) | :thumbsup:[袁翊涵](https://github.com/Rcatgaze/b06702016) | :thumbsup:[王崧存](https://github.com/B10604106/B10604106) | 
