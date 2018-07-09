@@ -31,3 +31,4 @@
 
 - week2
   - [hw2_part1](https://ntu-csx-datascience.github.io/106Summer/week2/ggplot2Example.html)
+  - [hw2_part2](https://ntu-csx-datascience.github.io/106Summer/week2/textMining.html)
