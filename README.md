@@ -28,3 +28,6 @@
 
 - week1
   - [hw1](https://ntu-csx-datascience.github.io/106Summer/week1/hw1.html)
+
+- week2
+  - [hw2_part1](https://ntu-csx-datascience.github.io/106Summer/week2/ggplot2Example.html)
