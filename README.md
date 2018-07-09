@@ -14,7 +14,7 @@
 :thumbsup:[劉于瑄](https://github.com/yuly830914/CSX_RProject) | :thumbsup:[嚴婗](https://github.com/nicoleyen/ex1) | :thumbsup:[姚承佑](https://github.com/pccuyao/Example) | 
 :thumbsup:[黃章昱](https://github.com/jack2012aa/CSX-R-project) | :thumbsup:[辛佩蓉](https://github.com/PeijungHsin/CSXsppjhsin) | [洪幸里](https://github.com/sacYuki/first_example1) | 
 [賴蕙心](https://github.com/rwg00201/002) | [彭思凱](https://github.com/Ashley3477/Ashley) | [周佳宜](https://github.com/daisychou1995/daisy) | 
-_[林昌傑](https://github.com/Jerry882612/Jerry882612)_ | [林冠辰](https://github.com/tedlinx/CSX_RProject_summer_2018) | [段玉星](http://github.com/tuanstar90208/stardog) | 
+[林昌傑](https://github.com/Jerry882612/Jerry882612)_ | [林冠辰](https://github.com/tedlinx/CSX_RProject_summer_2018) | [段玉星](http://github.com/tuanstar90208/stardog) | 
 :thumbsup:[王奕傑](https://github.com/ericwang1998/CSX_RProject_Summer_2018) | :thumbsup:[蕭如秀](https://github.com/ruxiuhsiao/homework) | [吳沛穎](https://github.com/peiyingwu0705/-) | 
 [楊詠雯](https://github.com/YongWen-Yang/example) | [胡家銘](https://github.com/jiaminghummc110610014/Example) | [王思雯](https://github.com/abcxzew/Example) | 
 [余晨瑋](https://github.com/chenweifelix/name) | _[王良軒](https://github.com/jason10130021/R18)_ | [廖志豪](https://github.com/CHIHHAOLIAO/CSX_RProject_Summer_2018) | 
