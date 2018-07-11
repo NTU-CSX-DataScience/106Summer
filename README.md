@@ -18,7 +18,7 @@
 :thumbsup:[王奕傑](https://github.com/ericwang1998/CSX_RProject_Summer_2018) | :thumbsup:[蕭如秀](https://github.com/ruxiuhsiao/homework) | [吳沛穎](https://github.com/peiyingwu0705/-) | 
 [楊詠雯](https://github.com/YongWen-Yang/example) | [胡家銘](https://github.com/jiaminghummc110610014/Example) | [王思雯](https://github.com/abcxzew/Example) | 
 _[張銚軒]()_ | [王良軒](https://github.com/jason10130021/R18) | [游博翔](https://github.com/cartus0910/2018SUMMER_R) | 
-[鄭伃倢](https://github.com/minikitty2926/yujie) | [邱昱勳](https://github.com/retx/CHIU-YU-HSUN) | [周芸瑄](https://github.com/chouyunhsuan/chou) | 
+[鄭伃倢](https://github.com/minikitty2926/Yujie_106_Summer) | [邱昱勳](https://github.com/retx/CHIU-YU-HSUN) | [周芸瑄](https://github.com/chouyunhsuan/chou) | 
 :thumbsup:[宋承岷](https://github.com/marksong1105/CSX_RProject_Summer_2018) | [楊道淵](https://github.com/bearhugdao/CSX_RProject_summer_2018/) | [呂羿賢](https://github.com/luyihsien/CSX_RProject_Spring_2018) | 
 [楊鎧綾](https://github.com/yangkailing/example) | [林柏翰](https://github.com/Bo-Han/NTU-R) | [劉永澤](https://github.com/Ryanliu89/RyanLiu-R) | 
 [廖昱嘉](https://github.com/icedragon5235/ntu-cs-x) | :thumbsup:[龔泓愷](https://github.com/Bourbon0212/NTU-CS-X) | [甘佳昀](https://github.com/clairekan/NTU_R) |
