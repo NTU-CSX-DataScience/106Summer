@@ -32,4 +32,3 @@ _[張銚軒]()_ | [王良軒](https://github.com/jason10130021/R18) | [游博翔
 - week2
   - [hw2_part1](https://ntu-csx-datascience.github.io/106Summer/week2/ggplot2Example.html)
   - [hw2_part2](https://ntu-csx-datascience.github.io/106Summer/week2/textMining.html)
-  - [hw2example-part1](https://ntu-csx-datascience.github.io/106Summer/week2example/task1.html)
