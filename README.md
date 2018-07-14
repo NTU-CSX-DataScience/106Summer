@@ -34,5 +34,5 @@ _[張銚軒]()_ | [王良軒](https://github.com/jason10130021/R18) | [游博翔
   - [hw2_part2](https://ntu-csx-datascience.github.io/106Summer/week2/textMining.html)
   - [hw2_wordcloud](https://ntu-csx-datascience.github.io/106Summer/week2/wordcloud/wordcloud.html) (讀本地檔案)
   
- - week3
+- week3
   - [TFIDF example](https://ntu-csx-datascience.github.io/106Summer/week3/tfidf/tfidf.html)
