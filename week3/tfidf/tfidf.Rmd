@@ -79,7 +79,7 @@ docs.cos.sim
 1. 計算個詞彙的詞頻總和
 2. 把**單詞-詞頻**對應存入 data frame
 3. 畫出文字雲
-```{r warning  FALSE}
+```{r warning = FALSE}
 f <- sort(rowSums(docs.tfidf), decreasing = T)
 docs.df <- data.frame(
   word = names(f),
