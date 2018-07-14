@@ -1,0 +1,90 @@
+---
+title: "TFIDF"
+author: "CM"
+date: "2018年7月14日"
+output: html_document
+---
+
+# TFIDF Example
+
+```{r, message = FALSE, warning = FALSE}
+library(tm)
+library(tmcn)
+library(Matrix)
+library(wordcloud)
+```
+
+### Something before reading
+1. 這份 code 使用的 coding style 是遵照 [Google R Coding Style](https://google.github.io/styleguide/Rguide.xml#identifiers)
+2. 看到不懂的 function 多用 ?`<function name>` 去查詢
+3. 直接把每行 code 複製貼上是最沒有效率的學習方法，同學可以試著想想每行 code 背後代表的意義
+
+### Segmentation, Term Document Matrix
+1. 讀檔
+2. 把 [1] [2] ... 這種維基百科的註解去掉（文本是從 wiki 複製下來的）
+3. 把 docs 轉成 corpus
+4. 斷詞
+5. 把斷詞結果轉換成 term-document matrix
+6. 偷看一下轉換後的結果
+```{r warning = FALSE}
+docs <- readLines("structuralism.txt")
+docs <- gsub("\\[[0-9]+\\]", "", docs)
+docs.corpus <- Corpus(VectorSource(docs))
+docs.seg <- tm_map(docs.corpus, segmentCN)
+docs.tdm <- TermDocumentMatrix(docs.seg, control = list())
+inspect(docs.tdm)
+```
+
+
+### TFIDF Counting
+1. 計算每個詞的 term frequency
+2. 定義計算 idf 的 function
+3. 計算 idf
+4. tfidf = tf * idf
+5. 看一下結果
+```{r}
+docs.tf <- apply(as.matrix(docs.tdm), 2, function(doc) {doc / sum(doc)})
+idf.function <- function(word_doc) { log2( (length(word_doc)+1) / nnzero(word_doc) ) }
+docs.idf <- apply(docs.tdm, 1, idf.function)
+docs.tfidf <- docs.tf * docs.idf
+head(docs.tfidf)
+```
+
+
+### Query of Words
+1. 定義查詢函數
+2. 查詢 **"結構"**, **"人類學"**, **"整體"** 三個詞在各篇文章的 tfidf 值
+```{r}
+query.tfidf <- function(q){
+  q.position <- which(rownames(docs.tfidf) %in% q)
+  q.tfidf <- docs.tfidf[q.position, ]
+  return (q.tfidf)
+}
+query.tfidf(c("結構", "人類學", "整體"))
+```
+
+### Cosine Similiarity
+1. 定義「計算 x, y 兩向量 cosine 值」函數
+2. 計算 **"各篇文章的 tfidf 向量"** 與 **"第一篇文章 tfidf 向量"** 的 cosine 值
+```{r}
+cos <- function(x, y){
+  return (x %*% y / sqrt(x %*% x * y %*% y))[1, 1]
+}
+# compare with first doc
+docs.cos.sim <- apply(docs.tfidf, 2, cos, y = docs.tfidf[, 1])
+docs.cos.sim
+```
+
+### Wordcloud
+1. 計算個詞彙的詞頻總和
+2. 把**單詞-詞頻**對應存入 data frame
+3. 畫出文字雲
+```{r warning  FALSE}
+f <- sort(rowSums(docs.tfidf), decreasing = T)
+docs.df <- data.frame(
+  word = names(f),
+  freq = f
+)
+wordcloud(docs.df$word, docs.df$freq, scale=c(5,0.1), colors=brewer.pal(8, "Dark2"))
+```
+
