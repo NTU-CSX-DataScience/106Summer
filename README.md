@@ -1,4 +1,4 @@
-# 106Summer
+﻿# 106Summer
 
 - [課程大綱](http://www.n2.org.tw/pub/uploads/8N2033_臺大_蔡芸琤_資料科學程式設計0426.pdf)
 - [課程 gitbook](https://n2-data-science-programming.gitbook.io/rsummer/)
@@ -35,4 +35,5 @@ _[張銚軒]()_ | [王良軒](https://github.com/jason10130021/R18) | [游博翔
   - [hw2_wordcloud](https://ntu-csx-datascience.github.io/106Summer/week2/wordcloud/wordcloud.html) (讀本地檔案)
   
 - week3
-  - [TFIDF example](https://ntu-csx-datascience.github.io/106Summer/week3/tfidf/tfidf.html)
+  - [TFIDF example1](https://ntu-csx-datascience.github.io/106Summer/week3/tfidf/tfidf.html)
+  - [TFIDF example2](https://ntu-csx-datascience.github.io/106Summer/week3/PTTBoyGirl.html)
