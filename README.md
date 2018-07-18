@@ -6,7 +6,7 @@
 ## 分組名單
 | | | |
 --|--|--
-[張雯婷](https://github.com/1221cc/123456) | [蔡沛姍](https://github.com/Pei4/Exercise) | [李映儒](https://github.com/Lulu-Lee/106-Summer-Class)| 
+[張雯婷](https://github.com/1221cc/123456) | :thumbsup: [蔡沛姍](https://github.com/Pei4/Exercise) | [李映儒](https://github.com/Lulu-Lee/106-Summer-Class)| 
 [江雨柔](https://github.com/stephanie0324/cs-summer-school) | [賴昱心](https://github.com/SafiaLai/Test.git) | [楊舒涵](https://github.com/yshuhan/project) | 
 [林奕均](https://github.com/yichunchloe/2018-Summer-CSX-RProject) | [王姿嵐](https://github.com/lanw868/Data-Science-Programming) | [陳麒業](https://github.com/Gsus4/CSX_Summer_2018) | 
 [何配瑜](https://github.com/pd1921/CSX_RProject_2018) | [袁翊涵](https://github.com/Rcatgaze/b06702016) | [王崧存](https://github.com/B10604106/B10604106) | 
@@ -15,7 +15,7 @@
 [黃章昱](https://github.com/jack2012aa/CSX-R-project) | [辛佩蓉](https://github.com/PeijungHsin/CSXsppjhsin) | [徐紹誠](https://github.com/Ipasss/example) | 
 [賴蕙心](https://github.com/rwg00201/002) | [彭思凱](https://github.com/Ashley3477/R_2018Summer) | [周佳宜](https://github.com/daisychou1995/R-Project_2018Summer) | 
 [林昌傑](https://github.com/Jerry882612/Jerry882612) | [林冠辰](https://github.com/tedlinx/CSX_RProject_summer_2018) | [段玉星](http://github.com/tuanstar90208/stardog) | 
-[王奕傑](https://github.com/ericwang1998/CSX_RProject_Summer_2018) | [蕭如秀](https://github.com/ruxiuhsiao/homework) | [吳沛穎](https://github.com/peiyingwu0705/-) | 
+[王奕傑](https://github.com/ericwang1998/CSX_RProject_Summer_2018) | :thumbsup: [蕭如秀](https://github.com/ruxiuhsiao/homework) | [吳沛穎](https://github.com/peiyingwu0705/-) | 
 [楊詠雯](https://github.com/YongWen-Yang/example) | [胡家銘](https://github.com/jiaminghummc110610014/Example) | [王思雯](https://github.com/abcxzew/Example) | 
 _[張銚軒]()_ | [王良軒](https://github.com/jason10130021/CS-X_106_Summer) | [游博翔](https://github.com/cartus0910/2018SUMMER_R) | 
 [鄭伃倢](https://github.com/minikitty2926/Yujie_106_Summer) | [邱昱勳](https://github.com/retx/CHIU-YU-HSUN) | [周芸瑄](https://github.com/chouyunhsuan/chou) | 
