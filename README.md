@@ -11,7 +11,7 @@
 [林奕均](https://github.com/yichunchloe/2018-Summer-CSX-RProject) | [王姿嵐](https://github.com/lanw868/Data-Science-Programming) | [陳麒業](https://github.com/Gsus4/CSX_Summer_2018) | 
 [何配瑜](https://github.com/pd1921/CSX_RProject_2018) | [袁翊涵](https://github.com/Rcatgaze/b06702016) | [王崧存](https://github.com/B10604106/B10604106) | 
 [徐丞億](https://github.com/bwychenyi/CSX_RProject_Summer_2018) | [顏郁修](https://github.com/willsonyen/CSX_RProject_Summer_2018) | [賴泓宇](https://github.com/Austinlaiaccount/2018summerrproject) | 
-[劉于瑄](https://github.com/yuly830914/CSX_RProject) | :thumbsup: [嚴婗](https://github.com/nicoleyen/ex1) | :thumbsup: [姚承佑](https://github.com/pccuyao/Example) | 
+:thumbsup: [劉于瑄](https://github.com/yuly830914/CSX_RProject) | :thumbsup: [嚴婗](https://github.com/nicoleyen/ex1) | :thumbsup: [姚承佑](https://github.com/pccuyao/Example) | 
 [黃章昱](https://github.com/jack2012aa/CSX-R-project) | [辛佩蓉](https://github.com/PeijungHsin/CSXsppjhsin) | [徐紹誠](https://github.com/Ipasss/example) | 
 [賴蕙心](https://github.com/rwg00201/002) | [彭思凱](https://github.com/Ashley3477/R_2018Summer) | [周佳宜](https://github.com/daisychou1995/R-Project_2018Summer) | 
 [林昌傑](https://github.com/Jerry882612/Jerry882612) | [林冠辰](https://github.com/tedlinx/CSX_RProject_summer_2018) | [段玉星](http://github.com/tuanstar90208/stardog) | 
