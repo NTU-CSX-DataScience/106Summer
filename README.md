@@ -35,6 +35,7 @@ _[張銚軒]()_ | [王良軒](https://github.com/jason10130021/CS-X_106_Summer) 
   - [hw2_wordcloud](https://ntu-csx-datascience.github.io/106Summer/week2/wordcloud/wordcloud.html) (讀本地檔案)
   
 - week3
+  - [EDA example1](https://ntu-csx-datascience.github.io/106Summer/week3/EDA.html)
   - [TFIDF example1](https://ntu-csx-datascience.github.io/106Summer/week3/tfidf/tfidf.html)
   - [TFIDF example2](https://ntu-csx-datascience.github.io/106Summer/week3/PTTBoyGirl.html)
   - [TFIDF -> PCA -> K-means](https://ntu-csx-datascience.github.io/106Summer/week3/week3_example.html)
