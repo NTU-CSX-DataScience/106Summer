@@ -1,0 +1,35 @@
+---
+title: 'Report of Titanic: 2nd degree families and majority voting'
+output: html_document
+---
+
+# Data From https://www.kaggle.com/erikbruin/titanic-2nd-degree-families-and-majority-voting/data
+```{r}
+TestData = read.csv('./DATA/all/test.csv')
+```
+
+# 使用 split & apply 去分割出姓名與稱謂
+# 心得...
+```{r}
+Names = TestData$Name
+splitTitle <- function(x){
+  strsplit(x, split='[,.]')[[1]]
+}
+Temp = sapply(as.character(Names), splitTitle)
+```
+```{r}
+TestData$Surname <- Temp[1,]
+TestData$Title <- Temp[2,]
+```
+```{r}
+library(knitr)
+kable(table(TestData$Sex, TestData$Title))
+```
+
+```{r eval=FALSE}
+all$Title[all$Title %in% c("Mlle", "Ms")] <- "Miss"
+all$Title[all$Title== "Mme"] <- "Mrs"
+all$Title[!(all$Title %in% c('Master', 'Miss', 'Mr', 'Mrs'))] <- "Rare Title"
+all$Title <- as.factor(all$Title)
+kable(table(all$Sex, all$Title))
+```
