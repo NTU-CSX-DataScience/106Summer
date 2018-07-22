@@ -214,9 +214,11 @@ $(document).ready(function () {
 <pre class="r"><code>require(ggplot2)
 #將底下的圖設定為黑白配色（theme_bw）
 old &lt;- theme_set(theme_bw())</code></pre>
+<hr />
 </div>
 <div id="part-a.--vs-" class="section level2">
 <h2>Part A. 性別 vs 數學成績</h2>
+<hr />
 <div class="section level3">
 <h3>首先從不同性別的數學分數盒鬚圖開始，並計算其信賴區間</h3>
 <pre class="r"><code>ggplot(data = dta, aes(x = gender, y = math)) +
@@ -263,10 +265,12 @@ t.test(math ~ gender, data = dta, var.equal = TRUE)</code></pre>
 ## sample estimates:
 ##  mean in group boy mean in group girl 
 ##           616.5749           619.5302</code></pre>
+<hr />
 </div>
 </div>
 <div id="part-b.---vs-" class="section level2">
 <h2>Part B. 父母教育 &amp; 教育資源量 vs 數學成績</h2>
+<hr />
 <div class="section level3">
 <h3>以下觀察父母的教育背景是否與數學成績有關</h3>
 <pre class="r"><code>#先把父母教育欄位內各個水準順序定下來(order of factors)
@@ -445,10 +449,12 @@ ggplot(data = fit_m2, aes(x = fitted, y = scale(resid), group = parental.educati
 <div id="-r-" class="section level3">
 <h3>記得改回舊的配色，不然 R 就黑白下去了</h3>
 <pre class="r"><code>theme_set(old)</code></pre>
+<hr />
 </div>
 </div>
 <div id="part-c.-" class="section level2">
 <h2>Part C. 接下來分析資料集當中的其他變項是否和數學成績有關</h2>
+<hr />
 <pre class="r"><code>dta_math &lt;- dta[, c('math', 'math.interest', 
                     'math.evaluation', 'math.input')]</code></pre>
 <div class="section level3">

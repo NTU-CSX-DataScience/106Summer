@@ -34,7 +34,11 @@ require(ggplot2)
 old <- theme_set(theme_bw())
 ```
 
+---
+
 ## Part A. 性別 vs 數學成績
+
+---
 
 ### 首先從不同性別的數學分數盒鬚圖開始，並計算其信賴區間
 ```{r cache=TRUE, warning=FALSE}
@@ -62,7 +66,11 @@ t.test(math ~ gender, data = dta)
 t.test(math ~ gender, data = dta, var.equal = TRUE)
 ```
 
+---
+
 ## Part B. 父母教育 & 教育資源量 vs 數學成績
+
+---
 
 ### 以下觀察父母的教育背景是否與數學成績有關
 ```{r cache=TRUE, warning=FALSE}
@@ -199,7 +207,12 @@ summary(influence(m2)$hat)
 theme_set(old)
 ```
 
+---
+
 ## Part C. 接下來分析資料集當中的其他變項是否和數學成績有關
+
+---
+
 ```{r cache=TRUE, warning=FALSE}
 dta_math <- dta[, c('math', 'math.interest', 
                     'math.evaluation', 'math.input')]
