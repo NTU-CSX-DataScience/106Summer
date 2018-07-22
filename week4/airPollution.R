@@ -1,7 +1,7 @@
 rm(list = ls(all=TRUE))
 library(dplyr)
 rawdata = read.csv(
-  'AQXDaily_20170409211519.csv',
+  'data/AQXDaily_20170409211519.csv',
   encoding = 'UTF-8')
 
 df <- rawdata %>% group_by(X.U.FEFF.SiteId)
