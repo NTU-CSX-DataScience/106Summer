@@ -39,3 +39,6 @@ _[張銚軒]()_ | [王良軒](https://github.com/jason10130021/CS-X_106_Summer) 
   - [TFIDF example1](https://ntu-csx-datascience.github.io/106Summer/week3/tfidf/tfidf.html)
   - [TFIDF example2](https://ntu-csx-datascience.github.io/106Summer/week3/PTTBoyGirl.html)
   - [TFIDF -> PCA -> K-means](https://ntu-csx-datascience.github.io/106Summer/week3/week3_example.html)
+  
+- week 4
+  - [Statistics and Regression](https://ntu-csx-datascience.github.io/106Summer/week4/regression_example.html)
