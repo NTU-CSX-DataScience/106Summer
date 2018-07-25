@@ -268,3 +268,18 @@ summary(lm.beta(m4))
 summary(m5 <- update(m4, . ~ . - math.input , data = dta_math))
 anova(m5, m4)
 ```
+
+### math ~ math.interest + math.hours + math.evaluation + educational.resources
+### dta[,2] ~ dta[,3] + dta[,6] + dta[,4] + dta[,13]
+```{r  cache=TRUE, warning=FALSE}
+m5 <- lm(math ~ math.interest + math.hours + math.evaluation + educational.resources, data = dta)
+fit_m5 <- data.frame(dta[, c(2, 3, 6, 4, 13)], fitted = fitted(m5), resid = resid(m5), infl = influence(m5)$hat)
+
+ggplot(data = fit_m5, aes(x = math, group = math.hours )) +
+ stat_density(geom = 'path', position = 'identity') +
+ stat_density(geom = 'path', position = 'identity', aes(x = fitted)) +
+ geom_vline(xintercept = c(with(dta, tapply(math, math.hours, mean))), linetype = 'dotted')+
+ facet_grid(math.hours ~ .) +
+ scale_x_continuous(breaks = seq(200, 900, by = 100))+
+ labs(x = '數學分數', y = '機率密度')
+```
