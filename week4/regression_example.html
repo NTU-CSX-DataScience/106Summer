@@ -273,6 +273,7 @@ t.test(math ~ gender, data = dta, var.equal = TRUE)</code></pre>
 <hr />
 <div class="section level3">
 <h3>以下觀察父母的教育背景是否與數學成績有關</h3>
+<pre class="r"><code>library(Hmisc)</code></pre>
 <pre class="r"><code>#先把父母教育欄位內各個水準順序定下來(order of factors)
 dta$parental.education &lt;- factor(dta$parental.education, 
                        levels = c('elementary school',
@@ -287,9 +288,7 @@ tapply(dta$math, dta$parental.education, mean)</code></pre>
 ##           536.5940           558.7106           598.8742 
 ##            college   university above 
 ##           645.2816           660.9434</code></pre>
-<pre class="r"><code>library(Hmisc)
-
-#同父母教育程度下的數學分數平均數，加上信賴區間
+<pre class="r"><code>#同父母教育程度下的數學分數平均數，加上信賴區間
 ggplot(data = dta, 
        aes(x = parental.education, y = math)) +
   stat_summary(fun.data = 'mean_cl_boot', size = 1) +
