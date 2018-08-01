@@ -1,12 +1,8 @@
 library(rsconnect)
 library(shiny)
-setwd("E:/works/R/shiny")
+setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
 runApp()
 
-#runExample("01_hello")
-#runExample("06_tabsets")
-
-library(rsconnect)
-deployApp()
+#deployApp()
 

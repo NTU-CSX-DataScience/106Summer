@@ -1,0 +1,12 @@
+name: week5
+title: week5
+username:
+account: cmtest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 392380
+bundleId: 1510947
+url: https://cmtest.shinyapps.io/week5/
+when: 1533100129.03973
+asMultiple: FALSE
+asStatic: FALSE
