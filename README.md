@@ -11,11 +11,11 @@
 [林奕均](https://github.com/yichunchloe/2018-Summer-CSX-RProject) | [王姿嵐](https://github.com/lanw868/Data-Science-Programming) | [陳麒業](https://github.com/Gsus4/CSX_Summer_2018) | 
 [何配瑜](https://github.com/pd1921/CSX_RProject_2018) | [袁翊涵](https://github.com/Rcatgaze/b06702016) | [王崧存](https://github.com/B10604106/B10604106) | 
 [徐丞億](https://github.com/bwychenyi/CSX_RProject_Summer_2018) | [顏郁修](https://github.com/willsonyen/CSX_RProject_Summer_2018) | [賴泓宇](https://github.com/Austinlaiaccount/2018summerrproject) | 
-[劉于瑄](https://github.com/yuly830914/CSX_RProject) | [嚴婗](https://github.com/nicoleyen/ex1) | [姚承佑](https://github.com/pccuyao/Example) | 
+:thumbsup: [劉于瑄](https://github.com/yuly830914/CSX_RProject) | [嚴婗](https://github.com/nicoleyen/ex1) | [姚承佑](https://github.com/pccuyao/Example) | 
 [黃章昱](https://github.com/jack2012aa/CSX-R-project) | [辛佩蓉](https://github.com/PeijungHsin/CSXsppjhsin) | [徐紹誠](https://github.com/Ipasss/example) | 
 [賴蕙心](https://github.com/rwg00201/002) | [彭思凱](https://github.com/Ashley3477/R_2018Summer) | [周佳宜](https://github.com/daisychou1995/R-Project_2018Summer) | 
 [林昌傑](https://github.com/Jerry882612/Jerry882612) | [林冠辰](https://github.com/tedlinx/CSX_RProject_summer_2018) | [段玉星](http://github.com/tuanstar90208/stardog) | 
-[王奕傑](https://github.com/ericwang1998/CSX_RProject_Summer_2018) | [蕭如秀](https://github.com/ruxiuhsiao/homework) | [吳沛穎](https://github.com/peiyingwu0705/-) | 
+:thumbsup: [王奕傑](https://github.com/ericwang1998/CSX_RProject_Summer_2018) | [蕭如秀](https://github.com/ruxiuhsiao/homework) | [吳沛穎](https://github.com/peiyingwu0705/-) | 
 [楊詠雯](https://github.com/YongWen-Yang/example) | [胡家銘](https://github.com/jiaminghummc110610014/Example) | [王思雯](https://github.com/abcxzew/Example) | 
 [鄭伃倢](https://github.com/minikitty2926/Yujie_106_Summer) | [邱昱勳](https://github.com/retx/CHIU-YU-HSUN) | [周芸瑄](https://github.com/chouyunhsuan/chou) | 
 [宋承岷](https://github.com/marksong1105/CSX_RProject_Summer_2018) | [楊道淵](https://github.com/bearhugdao/CSX_RProject_summer_2018/) | [呂羿賢](https://github.com/luyihsien/CSX_RProject_Spring_2018) | 
