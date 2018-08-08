@@ -2,6 +2,7 @@
 
 - [課程大綱](http://www.n2.org.tw/pub/uploads/8N2033_臺大_蔡芸琤_資料科學程式設計0426.pdf)
 - [課程 gitbook](https://n2-data-science-programming.gitbook.io/rsummer/)
+- [學生成績](https://docs.google.com/spreadsheets/d/1kpo7qc1uXtuiLI_-n2fnypijLj6p3uyc14Or76i64JA/edit?usp=sharing)
 
 ## 分組名單
 | | | |
